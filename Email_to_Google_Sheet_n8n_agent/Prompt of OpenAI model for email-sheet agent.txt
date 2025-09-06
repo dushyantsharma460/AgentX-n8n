@@ -1,0 +1,11 @@
+﻿This is the email that I have recieved on my support email, I want to Get 7 Fields out of it 
+1. Sender Name if Avalible (Key: SenderName) 
+2. Sender Email (Key: SenderEmail) 
+3. Department (Support, Sales, Junk: Means someone tries to sell us something, or a newsletter, reset passwords emails, make money online emails, spam emails) (Key: Department) 
+4. Sub Category (Support: New User, Current user - Product Level issue, Billing Issue, Other | Sales: Custom enterpise plan, Doubts related to plan, Upgrade the plan) (Key: Category) 
+5. Issue (Key: Issue) 
+6. Phone numner (if phone number is provided in the message; default is "Not provided") (Key: Phone) 
+7. Priority: (High, Medium, Low) (Key: Priority) 
+Email sender: 
+Email Subject: 
+Email Content:
